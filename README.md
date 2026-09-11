@@ -1,5 +1,3 @@
-# RPA Web Data Extractor
-
 Automação RPA desenvolvida em Python para extração de dados de uma tabela em uma aplicação web e envio das informações para uma planilha do Google Sheets.
 
 ## Demonstração:
